@@ -1,3 +1,22 @@
+#go to the git bash
+#git config --global user.name "basant Joshi"
+#git config --global user.email "basujoshi155@ghmail.com"
+ 
+#git init
+#git status => if you want to check what are the status of files
+#git diff => if you want to check what are the changes
+
+#git add .
+#git commit -m "your meaasage"
+#copy paste git code from github
+
+#############
+# 1. change code
+# 2. git add .
+# 3. git commit -m "message"
+# $. git push
+##################################3
+
 import csv
 import json
 import requests
